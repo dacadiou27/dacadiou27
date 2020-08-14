@@ -2,7 +2,7 @@
 
 <img align="right" width="150" boder="solid 3px" src="https://github.com/dacadiou27/dacadiou27.github.io/blob/master/img/Bitmoji_croissant.png">
 
-### I'm a Software - Web / Full Stack Development Programmer & a Geologist. I am originally from France but I leave in Calgary, Alberta with my familly!
+### I'm a Software - Web / Full Stack Development Programmer & a Geologist. I am originally from France but I live in Calgary, Alberta with my familly!
 
 
 Check out my website <a href="https://dacadiou27.github.io/index.html">website</a>✨ or my <a href="https://www.linkedin.com/in/dany-cadiou/">LinkedIn</a> 💼
