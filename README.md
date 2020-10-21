@@ -7,7 +7,7 @@
 
 Check out my <a href="https://dacadiou27.github.io/index.html">Website</a>✨ or my <a href="https://www.linkedin.com/in/dany-cadiou/">LinkedIn</a> 💼
 
-### My Passion for coding, technology and workflow development is driving this career shift. With my flexible technical skills covering web development, software development and SQL databases, I am committed to deliver robust coding for high quality software solutions which positively and meaningfully impact business development.
+### My Passion for coding, technology and workflow development is driving this career shift. With my flexible technical skills covering web development, software development and SQL databases, I am committed to deliver robust coding for high quality software solutions which positively and meaningfully impacts business development.
 <!--
 
 ### Hi there 👋
